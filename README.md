@@ -10,3 +10,5 @@
 - Added Author and Footer HTML
 - Added Author and Footer CSS
 - Fixed responsiveness for all devices
+
+Deployed link: https://da-suiteapppage.netlify.app/
