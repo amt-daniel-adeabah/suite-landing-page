@@ -51,4 +51,26 @@
     .business-text {
         margin: 32px 0 32px;
     }
+
+    .author-content {
+        width: 100%;
+        padding: 0 16px 64px;
+        top: 0;
+        transform: translate(-50%, -614px);
+    }
+
+    .author {
+        margin-top: 850px;
+    }
+
+    .footer {
+        padding-top: 190px;
+        padding-bottom: 80px;
+    }
+
+    .footer-content {
+        align-items: center;
+        flex-direction: column;
+        gap: 33px;
+    }
 }
