@@ -11,4 +11,8 @@
 - Added Author and Footer CSS
 - Fixed responsiveness for all devices
 
+3rd march, 2023.
+- Fixed responsiveness
+- Keep codes clean
+
 Deployed link: https://da-suiteapppage.netlify.app/
