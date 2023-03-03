@@ -1,4 +1,4 @@
-# suite-landing-page
+# Steps To Development
 
 1st march, 2023.
 - Added Navigation and the Business info section
