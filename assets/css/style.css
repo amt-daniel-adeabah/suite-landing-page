@@ -31,6 +31,12 @@ body {
     margin: 0 auto;
 }
 
+.navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .header {
     padding-top: 50px;
 }
@@ -45,6 +51,27 @@ body {
     height: 100%;
     object-fit: contain;
     object-position: center;
+}
+
+.header-button {
+    font-family: var(--font-family);
+    font-style: var(--font-style);
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: -0.16px;
+    background-color: var(--white);
+    color: var(--dark-blue);
+    border: 1px solid var(--dark-blue);
+    border-radius: 6px;
+    width: 219px;
+    height: 56px;
+    cursor: pointer;
+}
+
+.header-button:hover {
+    background-color: var(--dark-blue);
+    color: var(--white);
 }
 
 .business {
@@ -80,50 +107,6 @@ body {
     flex-wrap: wrap;
 }
 
-.statistics {
-    width: 190px;
-    display: flex;
-    flex-direction: column;
-    gap: 63px;
-}
-
-.navigation {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.header-button {
-    font-family: var(--font-family);
-    font-style: var(--font-style);
-    font-weight: 700;
-    font-size: 16px;
-    line-height: 32px;
-    letter-spacing: -0.16px;
-    background-color: var(--white);
-    color: var(--dark-blue);
-    border: 1px solid var(--dark-blue);
-    border-radius: 6px;
-    width: 219px;
-    height: 56px;
-    cursor: pointer;
-}
-
-.header-button:hover {
-    background-color: var(--dark-blue);
-    color: var(--white);
-}
-
-.business-title {
-    font-family: var(--font-family);
-    font-style: var(--font-style);
-    font-weight: 400;
-    font-size: 72px;
-    line-height: 78px;
-    letter-spacing: -1px;
-    color: var(--dark-blue);
-}
-
 .line {
     position: relative;
 }
@@ -139,6 +122,16 @@ body {
     position: absolute;
     top: -60px;
     left: 0;
+}
+
+.business-title {
+    font-family: var(--font-family);
+    font-style: var(--font-style);
+    font-weight: 400;
+    font-size: 72px;
+    line-height: 78px;
+    letter-spacing: -1px;
+    color: var(--dark-blue);
 }
 
 .business-text {
@@ -170,6 +163,13 @@ body {
 
 .business-button:hover {
     background: linear-gradient(135deg, var(--blue) 0%, var(--indigo) 49.21%, var(--orange) 100%);
+}
+
+.statistics {
+    width: 190px;
+    display: flex;
+    flex-direction: column;
+    gap: 63px;
 }
 
 .right-title {

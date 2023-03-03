@@ -35,17 +35,17 @@
         background-position: center top;
         margin-top: 50px;
     }
-
-    .business-title {
-        font-size: 38px;
-        line-height: 44px;
-        letter-spacing: -0.527778px;
-    }
     
     .line::before {
         width: 151.47px;
         height: 19px;
         top: -30px;
+    }
+
+    .business-title {
+        font-size: 38px;
+        line-height: 44px;
+        letter-spacing: -0.527778px;
     }
 
     .business-text {
