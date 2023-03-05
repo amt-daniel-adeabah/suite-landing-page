@@ -137,7 +137,7 @@
     }
 }
 
-/* smallest */
+/* SMALLEST */
 @media screen and (max-width: 280px) {
     .header-button {
         font-size: 10px;
