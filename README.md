@@ -15,4 +15,7 @@
 - Fixed responsiveness
 - Keep codes clean
 
+5th march, 2023.
+- Updated Responsivess
+
 Deployed link: https://da-suiteapppage.netlify.app/
