@@ -203,7 +203,7 @@ body {
     border-radius: 15px;
     display: flex;
     justify-content: center;
-    width: calc(80% - 30px);
+    width: calc(85% - 30px);
     position: absolute;
     top: 50%;
     top: calc(50% - 7.5px);
