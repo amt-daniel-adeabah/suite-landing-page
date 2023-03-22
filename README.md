@@ -25,10 +25,8 @@ Users should be able to:
 
 
 #### Languages 
-<code>
-- HTML5
-- CSS
-</code>
+<code>- HTML5
+- CSS</code>
 
 ## Steps To Development
 
