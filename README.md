@@ -19,9 +19,9 @@ Users should be able to:
 2. See hover states for interactive elements
 
 ## Screenshot
-(./assets/ui/ui1.png)
+<img src="./assets/ui/ui1.png" alt="Interface" width="100%" height="auto">
 </p>
-(./assets/ui/ui2.png)
+<img src="./assets/ui/ui2.png" alt="Interface" width="100%" height="auto">
 
 
 #### Languages 
