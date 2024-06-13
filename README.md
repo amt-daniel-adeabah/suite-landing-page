@@ -27,26 +27,5 @@ Users should be able to:
 #### Languages 
 <code>- HTML5 </p>- CSS </code>
 
-## Steps To Development
-
-1st march, 2023.
-- Added Navigation and the Business info section
-- Added a separate mobile and tablet CSS
-- Added page default style for desktop.
-- Deployed page to netlify
-
-2nd march, 2023.
-- Added Author and Footer HTML
-- Added Author and Footer CSS
-- Fixed responsiveness for all devices
-
-3rd march, 2023.
-- Fixed responsiveness
-- Keep codes clean
-
-5th march, 2023.
-- Updated Responsiveness
-
-
 ## Deployed Link
 Deployed link: https://da-suiteapppage.netlify.app/
